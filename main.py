@@ -1,6 +1,3 @@
-import re
-
-
 def main(path):
     text = get_text(path)
     print(f"--- Begin report of {path} ---")
